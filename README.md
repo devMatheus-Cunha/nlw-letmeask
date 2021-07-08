@@ -40,6 +40,3 @@ This is a project developed during **[Next Level Week Together](https://nextleve
 You can view the project layout through the link below:
 
 - [Web Layout](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
-
-
-Translated with www.DeepL.com/Translator (free version)
