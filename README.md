@@ -1,42 +1,45 @@
 
-## 🧪 Tecnologias
+## 🧪 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Como executar
+## 🚀 How to run
 
-Clone o projeto e acesse a pasta do mesmo.
+Clone the project and access the project folder.
 
 ```bash
 $ git clone https://github.com/rocketseat-education/nlw-06-reactjs
 $ cd nlw-06-reactjs
 ```
 
-Para iniciá-lo, siga os passos abaixo:
+To start it, follow the steps below:
 ```bash
-# Instalar as dependências
+# Install the dependencies
 $ yarn
 
-# Iniciar o projeto
+# Start the project
 $ yarn start
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+The app will be available in your browser at http://localhost:3000.
 
-Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
+Remember that you will need to create a [Firebase](https://firebase.google.com/) account and a project to provide a Realtime Database.
 
-## 💻 Projeto
+## 💻 Project
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
+Letmeask is perfect for content creators to be able to create Q&A rooms with their audience, in a very organized and democratic way. 
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+This is a project developed during **[Next Level Week Together](https://nextlevelweek.com/)**, presented June 20-27, 2021.
 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através do link abaixo:
+You can view the project layout through the link below:
 
-- [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
+- [Web Layout](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
+
+
+Translated with www.DeepL.com/Translator (free version)
