@@ -20,10 +20,17 @@ $ cd nlw-06-reactjs
 To start it, follow the steps below:
 ```bash
 # Install the dependencies
+<<<<<<< HEAD
 $ npm i
 
 # Start the project
 $ npm start
+=======
+$ yarn
+
+# Start the project
+$ yarn start
+>>>>>>> 911bc6cad5df4551579f5cb92a0021dab1865cd2
 ```
 The app will be available in your browser at http://localhost:3000.
 
