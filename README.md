@@ -14,7 +14,7 @@ Clone the project and access the project folder.
 
 ```bash
 $ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ cd letmeask
 ```
 
 To start it, follow the steps below:
