@@ -13,7 +13,7 @@ This project was developed with the following technologies:
 Clone the project and access the project folder.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
+$ git clone https://github.com/devMatheus-Gomes/nlw-letmeask.git
 $ cd letmeask
 ```
 
